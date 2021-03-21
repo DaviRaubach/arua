@@ -1,5 +1,3 @@
-# muda ensemble score project
+# work in progress score for ensemble
 
-to use muda library
-
-Requires Abjad 3.2 and Muda 0.1
+Requires Abjad 3.2 and Muda
