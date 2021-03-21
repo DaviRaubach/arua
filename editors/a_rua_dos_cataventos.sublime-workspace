@@ -1,0 +1,729 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"select",
+				"select_music"
+			],
+			[
+				"writ",
+				"write_pitches"
+			],
+			[
+				"pi",
+				"pitches"
+			],
+			[
+				"rhyth",
+				"rhythm_01"
+			],
+			[
+				"rhy",
+				"rhythm_voice_one"
+			],
+			[
+				"material",
+				"material_01"
+			],
+			[
+				"array_",
+				"array1_zero_now"
+			],
+			[
+				"array1_",
+				"array1_zero_now"
+			],
+			[
+				"note",
+				"note_followers_ring_on"
+			],
+			[
+				"mod",
+				"amp_modulation"
+			],
+			[
+				"rand",
+				"rand_dyn_min"
+			],
+			[
+				"rand_amp",
+				"rand_amp_on_bright"
+			],
+			[
+				"ran",
+				"rand_amp_on"
+			],
+			[
+				"amp",
+				"amp_coeficient"
+			],
+			[
+				"bright",
+				"bright_on"
+			],
+			[
+				"array",
+				"array1_zero"
+			],
+			[
+				"my",
+				"my_new_list"
+			],
+			[
+				"staff-",
+				"staff-staff-spacing"
+			],
+			[
+				"voice",
+				"voice_one"
+			],
+			[
+				"sele",
+				"selection_reg"
+			],
+			[
+				"resp",
+				"respell_with_sharps"
+			],
+			[
+				"pitches_leaf",
+				"pitches_leaf_1"
+			],
+			[
+				"mol",
+				"molto_liberamente"
+			],
+			[
+				"is",
+				"isinstance"
+			],
+			[
+				"w",
+				"written_duration"
+			],
+			[
+				"pit",
+				"pitches_voice_one"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"leaf",
+				"leaf2"
+			],
+			[
+				"cho",
+				"chord_up_longer"
+			],
+			[
+				"notes",
+				"notes_up"
+			],
+			[
+				"chord",
+				"chord_up"
+			],
+			[
+				"num",
+				"num_pitches"
+			],
+			[
+				"written",
+				"written_pitches"
+			],
+			[
+				"writt",
+				"written_duration"
+			],
+			[
+				"rest",
+				"rest_interval"
+			],
+			[
+				"pitches",
+				"pitches_voice_four"
+			],
+			[
+				"tenuto",
+				"tenuto_notes"
+			],
+			[
+				"note_and_rest_",
+				"note_and_rest_voice_four"
+			],
+			[
+				"text-de",
+				"text-decoration\tproperty"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"top",
+				"padding-top\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"h",
+				"h4\tTag"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"left",
+				"margin-left\tproperty"
+			],
+			[
+				"inpu",
+				"inputEmail"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"inl",
+				"inline-grid\tdisplay"
+			],
+			[
+				"inline",
+				"inline-table\tdisplay"
+			],
+			[
+				"text-dec",
+				"text-decoration-color\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"an",
+				"animation-duration\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"lil",
+				"lily_dir"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "score/score.py",
+			"settings":
+			{
+				"buffer_size": 1118,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Davi/Composição/2021/a_rua_dos_cataventos/untitled.sublime-build",
+			"settings":
+			{
+				"buffer_size": 161,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "untitled.sublime-build"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"debu",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"python",
+				"Build With: Python - Syntax Check"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colors",
+				"UI: Select Color Scheme"
+			],
+			[
+				"colo",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Fold Python : enter content"
+			],
+			[
+				"Package Control: svg",
+				"Package Control: Discover Packages"
+			],
+			[
+				"",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control:",
+				"Package Control: Disable Package"
+			],
+			[
+				"them",
+				"UI: Select Color Scheme"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"temina",
+				"View: Toggle Minimap"
+			],
+			[
+				"dark",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"quit()",
+			"terminal"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/score",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/segments"
+	],
+	"file_history":
+	[
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/materials/materials_01.py",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/score/score.ly",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/run_score.py",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/score/score.pdf",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/score/segment_01.pdf",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/segments/illustrations/segment_01.ly",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/a_rua_dos_cataventos/segments/segment_01.py",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/dist/ensemble_score-0.1-py3-none-any.whl",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/dist/ensemble_score-0.1.tar.gz",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/setup.cfg",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/setup.py",
+		"/Users/Davi/Composição/2021/a_rua_dos_cataventos/tests/tests.py",
+		"/Users/Davi/github/muda_score/dist/ensemble_score-0.1-py3-none-any.whl",
+		"/Users/Davi/github/muda_score/dist/ensemble_score-0.1.tar.gz",
+		"/Users/Davi/github/muda_score/illustrations/segment_01.ly",
+		"/Users/Davi/github/muda_score/muda_score.egg-info/PKG-INFO",
+		"/Users/Davi/github/muda_score/muda_score.egg-info/SOURCES.txt",
+		"/Users/Davi/github/muda_score/muda_score/materials/materials_01.py",
+		"/Users/Davi/github/muda_score/muda_score/run_score.py",
+		"/Users/Davi/github/muda_score/muda_score/score/score.ly",
+		"/Users/Davi/github/muda_score/muda_score/score/score.pdf",
+		"/Users/Davi/github/muda_score/muda_score/score/segment_01.pdf",
+		"/Users/Davi/github/muda_score/muda_score/segments/segment_01.py",
+		"/Users/Davi/github/muda_score/setup.cfg",
+		"/Users/Davi/github/muda_score/setup.py",
+		"/Users/Davi/github/muda_score/tests/tests.py",
+		"/Users/Davi/github/muda_score/muda_score/segments/illustrations/segment_01.ly",
+		"/Users/Davi/Library/Thunderbird/Profiles/spcmlhkx.default/chrome/userChrome.css",
+		"/Users/Davi/github/accordion2020/accordion2020/materials/drops/definition.py",
+		"/Users/Davi/github/accordion2020/accordion2020/materials/music/definition.py",
+		"/Users/Davi/include_bug.py",
+		"/Users/Davi/Programação/Abjad/abjad-master/docs/source/_stylesheets/abjad-coloring.ily",
+		"/Users/Davi/github/ser_vai_pela_sombra/ser_vai_pela_sombra/materials/material_01/definition.py",
+		"/Users/Davi/github/ser_vai_pela_sombra/ser_vai_pela_sombra/materials/functions/definition.py",
+		"/Users/Davi/github/ser_vai_pela_sombra/ser_vai_pela_sombra/materials/rhythms/definition.py",
+		"/Users/Davi/Composição/2020/preludio/score.txt",
+		"/Users/Davi/Programação/pd_source/pd-0.51-3test4/tcl/pd-gui.tcl",
+		"/Users/Davi/Composição/2020/preludio/music.asco.txt",
+		"/Users/Davi/Composição/2020/preludio/math.py",
+		"/Users/Davi/Composição/2020/preludio/antescofo~.pd_darwin",
+		"/Users/Davi/Composição/2020/preludio/preludio.pd",
+		"/Users/Davi/Composição/2020/preludio/segment_1.txt",
+		"/Users/Davi/github/organi/organi/materials/indicators/post_process_I.py",
+		"/Users/Davi/github/organi/organi/materials/indicators/post_process_II.py",
+		"/Users/Davi/github/organi/organi/materials/indicators/post_process_III.py",
+		"/Users/Davi/github/organi/organi/materials/indicators/post_process_IV.py",
+		"/Users/Davi/github/organi/organi/materials/indicators/post_process_V.py",
+		"/Users/Davi/github/organi/organi/builds/version-1/music.ly",
+		"/Users/Davi/github/organi/organi/builds/segments/segment-2.ily",
+		"/Users/Davi/github/organi/organi/segments/segment_1/definition.py",
+		"/Users/Davi/github/organi/organi/builds/version-1/score.tex",
+		"/Users/Davi/github/organi/organi/builds/version-1/preface.tex",
+		"/Users/Davi/github/organi/organi/builds/assets/performance-notes.tex",
+		"/Users/Davi/github/organi/organi/builds/version-1/front-cover.tex",
+		"/Users/Davi/github/organi/organi/builds/version-1/back-cover.tex",
+		"/Users/Davi/github/organi/organi/stylesheets/stylesheet.ily",
+		"/Users/Davi/github/organi/organi/stylesheets/segment_ii_stylesheet.ily",
+		"/Users/Davi/github/organi/organi/segments/segment_5/definition.py",
+		"/Users/Davi/github/organi/organi/builds/version-1/preface.log",
+		"/Users/Davi/github/organi/organi/builds/assets/introduction.tex",
+		"/Users/Davi/github/organi/organi/builds/build/preface.tex",
+		"/Users/Davi/github/organi/organi/builds/segments/segment-4.ily",
+		"/Users/Davi/github/organi/organi/builds/segments/segment-5.ily",
+		"/Users/Davi/github/organi/organi/segments/segment_5/illustration.ly",
+		"/Users/Davi/github/organi/organi/builds/segments/segment-1.ily",
+		"/Users/Davi/github/organi/organi/tools/ScoreTemplate.py",
+		"/Users/Davi/github/organi/organi/segments/segment_3/definition.py",
+		"/Users/Davi/github/organi/organi/segments/segment_2/definition.py",
+		"/Users/Davi/github/organi/organi/segments/segment_4/definition.py",
+		"/Users/Davi/github/organi/organi/tools/SegmentMaker.py",
+		"/Users/Davi/github/organi/organi/materials/pitches/pitches_V.py",
+		"/Users/Davi/github/organi/organi/materials/rhythm/rhythm_makers_V.py",
+		"/Users/Davi/github/organi/organi/tools/see_pitches.py",
+		"/Users/Davi/github/organi/organi/materials/rhythm/definition.py",
+		"/Users/Davi/github/organi/organi/materials/pitches/definition.py",
+		"/Users/Davi/github/organi/organi/materials/pitches/pitches_IV.py",
+		"/Users/Davi/github/organi/organi/materials/rhythm/rhythm_makers_IV.py",
+		"/Users/Davi/github/organi/organi/materials/rhythm/rhythm_makers_I.py",
+		"/Users/Davi/github/organi/organi/materials/pitches/pitches_I.py",
+		"/Users/Davi/github/organi/organi/segments/segment_1/illustration.ly",
+		"/Users/Davi/github/organi/organi/segments/segment_2/illustration.pdf",
+		"/Users/Davi/github/organi/organi/test/my_tests0.py",
+		"/Users/Davi/github/organi/organi/materials/pitches/pitches_II.py",
+		"/Users/Davi/github/organi/organi/segments/segment_4/illustration.ly",
+		"/Users/Davi/Desktop/programacao.php5.html",
+		"/private/var/folders/xq/711g31_d2wq26k8m4g3d9dg80000gn/T/j2mqCr.svg",
+		"/Users/Davi/OM/Libraries/omlily 3.1/preferences.lisp",
+		"/Users/Davi/OM/Libraries/omlily 3.1/wsparams.lisp",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/trabalhodemusica.html",
+		"/Users/Davi/Pictures/cópia de Captura de Tela 2017.png",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/index.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_data/navigation-pt.yml",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/index-pt.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_data/navigation.yml",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/contact.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/composer-pt.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/musiclist.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/musiclist-pt.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/saveToFirebase.js",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/coral.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/coral.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_sass/main.scss",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_data/Site- music, writings.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_includes/musiclist-layout.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/accordion.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/about.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/composer.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/contact.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/coral.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_data/music.yml",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_includes/language.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_includes/navigation.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/music.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/dontforgettorain.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/index.md",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_layouts/default.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/assets/css/style.scss",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/_site/about.html",
+		"/Users/Davi/Documents/GitHub/alembic-kit-remote-theme/_config.yml",
+		"/Users/Davi/Documents/GitHub/alembic-kit-remote-theme/blog/index.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/index.html",
+		"/Users/Davi/site/index.html",
+		"/Users/Davi/Documents/GitHub/daviraubach.github.io/README.md",
+		"/Users/Davi/Desktop/velha-infancia.txt.json",
+		"/Users/Davi/Desktop/Vowel Choir SFZ/Choir E.sfz",
+		"/Users/Davi/Desktop/Blog/style.css",
+		"/Users/Davi/Desktop/style.css",
+		"/Users/Davi/Documents/PureData/ChaoDeOutono_PdPatch/chaodeoutono.pd"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 190.0,
+		"where_history":
+		[
+			"/Users/Davi/Composição/2021/a_rua_dos_cataventos"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"muda_score",
+			"ensemble_score"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"a_rua_dos_cataventos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "score/score.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								465,
+								465
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Davi/Composição/2021/a_rua_dos_cataventos/untitled.sublime-build",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 210.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python 3/Python3.sublime-build",
+	"project": "a_rua_dos_cataventos.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

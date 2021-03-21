@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "/Users/Davi/github/my_venv/bin/python",
+    "git.ignoreLimitWarning": true,
+    "editor.formatOnSave": true,
+    "lilypondFormatter.general.pathToPython": "/Users/Davi/github/my_venv/bin/python",
+    "lilypondFormatter.general.reformatTimeout": 5000
+}

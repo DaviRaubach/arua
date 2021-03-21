@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+a_rua_dos_cataventos.egg-info/PKG-INFO
+a_rua_dos_cataventos.egg-info/SOURCES.txt
+a_rua_dos_cataventos.egg-info/dependency_links.txt
+a_rua_dos_cataventos.egg-info/requires.txt
+a_rua_dos_cataventos.egg-info/top_level.txt

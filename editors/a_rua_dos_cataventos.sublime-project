@@ -1,0 +1,26 @@
+{
+    "folders":
+    [
+        {
+            "path": "/Users/Davi/Composição/2021/a_rua_dos_cataventos",
+            "folder_exclude_patterns": ["backup"],
+            "follow_symlinks": true
+        },
+        {
+            "path": "docs",
+            "name": "Documentation",
+            "file_exclude_patterns": ["*.css"]
+        }
+    ],
+    "settings":
+    {
+    	"python_interpreter": "$HOME/github/my_venv/bin/python"
+    },
+    "build_systems":
+    [
+        {
+            "name": "List",
+            "shell_cmd": "ls -l"
+        }
+    ]
+}

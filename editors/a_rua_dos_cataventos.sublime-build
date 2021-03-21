@@ -1,0 +1,5 @@
+{
+    "cmd": ["/Users/Davi/github/my_venv/bin/python", "$file"],
+    "file_regex": "^[ ]File \"(...?)\", line ([0-9]*)",
+    "selector": "source.activate"
+}
