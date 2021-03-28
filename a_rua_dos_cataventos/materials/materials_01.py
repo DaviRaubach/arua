@@ -15,7 +15,7 @@ pitches = abjad.PitchSegment("c'")
 # create material
 material_aflute = muda.Material("AltoFlute_Voice_1")
 
-material_aflute.AlternatingMaterials(
+material_aflute.alternating_materials(
     timespans.durations_aflute,  # annotate divisions
     rhythm.rmaker_afluteA,
     rhythm.rmaker_afluteB,
@@ -30,11 +30,11 @@ material_aflute.AlternatingMaterials(
 #     annotated_divisions=timespans.durations_aflute
 # )
 # write pitches
-material_aflute.WritePitchesByDurations(pitch.pitches_aflute, timespans.durations_aflute)
+material_aflute.write_pitches_by_durations(pitch.pitches_aflute, timespans.durations_aflute)
 # delete, insert before write indicators
 # del material_aflute.container[-2:]
 # write indicators
-material_aflute.WriteIndicators(
+material_aflute.write_indicators(
     # which leaf receive the indicator
     # see leaves number
     # see_leaves_number=True,
@@ -52,7 +52,7 @@ material_aflute.WriteIndicators(
 material_bclarinet = muda.Material("BassClarinet_Voice_1")
 
 # write alternated materials
-material_bclarinet.AlternatingMaterials(
+material_bclarinet.alternating_materials(
     timespans.durations_bclarinet,  # annotate divisions
     rhythm.rmaker_bclarinetA,
     rhythm.rmaker_bclarinetB,
@@ -60,63 +60,63 @@ material_bclarinet.AlternatingMaterials(
     rhythm.rmaker_bclarinetD,
     rhythm.rest_maker,
 )
-material_bclarinet.WritePitchesByDurations(pitch.pitches_bclarinet, timespans.durations_bclarinet)
+material_bclarinet.write_pitches_by_durations(pitch.pitches_bclarinet, timespans.durations_bclarinet)
 
-material_bclarinet.WriteIndicators()
+material_bclarinet.write_indicators()
 
 # PIANO1
 material_piano1 = muda.Material("Piano_Voice_1")
-material_piano1.AlternatingMaterials(
+material_piano1.alternating_materials(
     timespans.durations_piano,  # annotate divisions
     rhythm.rmaker_piano1A,
     rhythm.rmaker_piano1B,
     rhythm.rest_maker,
 )
-material_piano1.WritePitches(pitches)
-material_piano1.WriteIndicators()
+material_piano1.write_pitches(pitches)
+material_piano1.write_indicators()
 # PIANO2
 material_piano3 = muda.Material("Piano_Voice_3")
-material_piano3.AlternatingMaterials(
+material_piano3.alternating_materials(
     timespans.durations_piano,  # annotate divisions
     rhythm.rmaker_piano3A,
     rhythm.rmaker_piano3B,
     rhythm.rest_maker,
 )
-material_piano3.WritePitches(pitches)
-material_piano3.WriteIndicators()
+material_piano3.write_pitches(pitches)
+material_piano3.write_indicators()
 
 # VIOLIN
 material_violin = muda.Material("Violin_Voice_1")
-material_violin.AlternatingMaterials(
+material_violin.alternating_materials(
     timespans.durations_strings,  # annotate divisions
     rhythm.rmaker_violinA,
     rhythm.rmaker_violinB,
     rhythm.rest_maker,
 )
-material_violin.WritePitches(pitches)
-material_violin.WriteIndicators()
+material_violin.write_pitches(pitches)
+material_violin.write_indicators()
 
 # VIOLA
 material_viola = muda.Material("Viola_Voice_1")
-material_viola.AlternatingMaterials(
+material_viola.alternating_materials(
     timespans.durations_strings,  # annotate divisions
     rhythm.rmaker_violaA,
     rhythm.rmaker_violaB,
     rhythm.rest_maker,
 )
-material_viola.WritePitches(pitches)
-material_viola.WriteIndicators()
+material_viola.write_pitches(pitches)
+material_viola.write_indicators()
 
 # CELLO
 material_cello = muda.Material("Cello_Voice_1")
-material_cello.AlternatingMaterials(
+material_cello.alternating_materials(
     timespans.durations_strings,  # annotate divisions
     rhythm.rmaker_celloA,
     rhythm.rmaker_celloB,
     rhythm.rest_maker,
 )
-material_cello.WritePitches(pitches)
-material_cello.WriteIndicators()
+material_cello.write_pitches(pitches)
+material_cello.write_indicators()
 materials_list = [
     material_aflute,
     material_bclarinet,
@@ -139,8 +139,8 @@ if __name__ == "__main__":
     mat_staff = abjad.Staff([mat_voice, skips], simultaneous=True)
     score = abjad.Score()
     score.append(mat_staff)
-    muda.functions.MakeSkips(score, time_signatures)
-    muda.functions.RewriteMeter(score, time_signatures)
+    muda.functions.make_skips(score, time_signatures)
+    muda.functions.rewrite_meter(score, time_signatures)
     abjad.show(score)
-    abjad.play(score)
+    #abjad.play(score)
 

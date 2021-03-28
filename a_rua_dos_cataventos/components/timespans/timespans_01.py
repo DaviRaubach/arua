@@ -28,28 +28,28 @@ bclarinet_alternations = [
 ]
 
 # presence of different materials
-timespans_aflute = muda.timespan.AlternatingTimespans(
+timespans_aflute = muda.timespan.alternating_timespans(
     n_annotations=5,  # different materials
     alternations=aflute_alternations,
     denominator=8,
     annotations=["aflute_A", "aflute_B", "aflute_C", "aflute_D", "Rests"],  # names of different materials
 )
 # new timespan list for bclarinet
-timespans_bclarinet = muda.timespan.AlternatingTimespans(
+timespans_bclarinet = muda.timespan.alternating_timespans(
     n_annotations=5,  # different materials
     alternations=bclarinet_alternations,
     denominator=8,
     annotations=["bclarinet_A", "bclarinet_B", "bclarinet_C", "bclarinet_D", "Rests"],  # names of different materials
 )
 # new timespan list for piano
-timespans_piano1e3 = muda.timespan.AlternatingTimespans(
+timespans_piano1e3 = muda.timespan.alternating_timespans(
     n_annotations=3,  # different materials
     alternations=general_alternations,
     denominator=8,
     annotations=["Mat_A", "Mat_B", "Rests"],  # names of different materials
 )
 # new timespan list for violin
-timespans_strings = muda.timespan.AlternatingTimespans(
+timespans_strings = muda.timespan.alternating_timespans(
     n_annotations=3,  # different materials
     alternations=general_alternations,
     denominator=8,
@@ -69,10 +69,10 @@ for instrument_ts1, instrument_ts2 in zip(
     error_str = "Instruments timespans must have the same total duration."
     assert instrument_ts1.duration == instrument_ts2.duration, error_str
 
-durations_aflute = timespans_aflute.AnnotatedDurations()
-durations_bclarinet = timespans_bclarinet.AnnotatedDurations()
-durations_piano = timespans_piano1e3.AnnotatedDurations()
-durations_strings = timespans_strings.AnnotatedDurations()
+durations_aflute = timespans_aflute.annotated_durations()
+durations_bclarinet = timespans_bclarinet.annotated_durations()
+durations_piano = timespans_piano1e3.annotated_durations()
+durations_strings = timespans_strings.annotated_durations()
 
 coincident_offsets = []
 for ts_list1, ts_list2 in zip(

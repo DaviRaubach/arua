@@ -1,3 +1,4 @@
-import a_rua_dos_cataventos
+import abjad
 
-print(a_rua_dos_cataventos)
+voice = abjad.Voice("c'4 d'4")
+abjad.show(voice)
